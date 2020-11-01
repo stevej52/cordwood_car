@@ -1,4 +1,4 @@
-rint(" ")
+print(" ")
 print(" ")
 print("   AUTONOMOUS")
 print("  CORDWOOD CAR")
